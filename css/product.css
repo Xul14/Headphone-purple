@@ -22,11 +22,3 @@
     display: flex;
 }
 
-.navegation{
-    height: 50px;
-    width: 50px;
-    font-size: 2rem;
-    color: white;
-    display: grid;
-    place-items: center;
-}

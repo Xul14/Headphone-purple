@@ -17,6 +17,10 @@
     place-items: center;
 }
 
+.product__image{
+    width: 50vw;
+}
+
 .product__navegation-container{
     background-color: white;
     display: flex;
